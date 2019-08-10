@@ -16,3 +16,5 @@ Here in this code we give image and text to be concealed in an image and press *
 
 Note:
 Output Image will be saved as o.png
+
+#### Feel free to Help and learn. (^_^)
