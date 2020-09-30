@@ -14,7 +14,7 @@ Here in this code we give image and text to be concealed in an image and press *
  * tkinter
 
 # Reference
-*https://www.geeksforgeeks.org/image-based-steganography-using-python/
+* https://www.geeksforgeeks.org/image-based-steganography-using-python/
 
 Note:
 Output Image will be saved as o.png
