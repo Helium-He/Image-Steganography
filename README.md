@@ -25,4 +25,4 @@ Here in this code we give image and text to be concealed in an image and press *
 * https://www.geeksforgeeks.org/image-based-steganography-using-python/
 
 #### Feel free to Help and learn. (^_^)
-### Note: Best this software is best compatiable with .png images 
+### Note: This software is best compatiable with .png images 
